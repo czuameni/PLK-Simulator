@@ -38,14 +38,19 @@ python gui.py
 
 ## Screenshots
 
+## Main Window
 ![Main Window](screenshots/main_window.png)
 
+## Standings
 ![Standings](screenshots/standings.png)
 
+## Round Finished
 ![Round Finished](screenshots/round_finished.png)
 
+## Play Ins
 ![Play Ins](screenshots/play_in.png)
 
+## Play Offs
 ![Play Offs](screenshots/play_off.png)
 
 ## Notes
