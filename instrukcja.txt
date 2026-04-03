@@ -1,0 +1,26 @@
+# Instrukcja
+
+## Instalacja
+1. Zainstaluj Python 3.10+
+2. W folderze projektu:
+
+pip install -r requirements.txt
+
+## Uruchomienie
+python gui.py
+
+## Jak działa aplikacja
+- Klikasz "NEXT ROUND" aby symulować sezon
+- Po zakończeniu sezonu uruchamia się play-in i playoff
+
+## Zakładki
+- Fixtures – ostatnia runda
+- Standings – tabela
+- Play-In – turniej 7–10
+- Playoff – faza pucharowa
+
+## Zmiana siły drużyn
+Edytuj:
+data/teams.json
+
+Zmieniaj wartość "overall"
